@@ -1,7 +1,7 @@
-# Unsupervised-QA-Papers
-Paper list for unsupervised QA
+# Unsupervised-and-Weakly-Supervised-QA-Papers
+Paper list for unsupervised and weakly supervised QA
 
-## [Papers](#content)
+## [Unsupervised-QA-Papers](#content)
 
 1. **Unsupervised Question Answering by Cloze Translation**, ACL 2019. [paper](https://aclanthology.org/P19-1484/)
 
@@ -40,3 +40,8 @@ Paper list for unsupervised QA
     *Chenyang Lyu, Lifeng Shang, Yvette Graham, Jennifer Foster, Xin Jiang, Qun Liu.* 
 
 
+## [Weakly supervised QA Papers](#content)
+
+1. **Few-Shot Question Answering by Pretraining Span Selection**, ACL 2021. [paper](https://aclanthology.org/2021.acl-long.239.pdf)
+
+    *Ori Ram, Yuval Kirstain, Jonathan Berant, Amir Globerson, Omer Levy.*
